@@ -1,4 +1,4 @@
-# Causal-Analysis-Visualization-AP
+# Human Persona Identification
 
 ## NORC County Analysis and Pattern-Based Clustering
 
